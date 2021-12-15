@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+div {
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 22px;
+}
+.pill {
+	display: inline-block;
+	border: 1px solid lightgray;
+	border-radius: 100px;
+	padding: 3px 12px 5px 12px;
+	margin-right: 2px;
+	margin-bottom: 5px;
+}
+.main-background {
+  background-image: linear-gradient(to bottom, #499add, #4e61c0);
+  height: 550px;
+  padding: 20px;
+  color: white;
+}
+.main-container {
+  max-width: 1200px;
+  margin: auto;
+} 
+.main-text {
+  float: left;
+  margin-top: 50px;
+}
+.main-iphone {
+  width: 400px;
+  float: right;
+  margin-top: 95px;
+}
